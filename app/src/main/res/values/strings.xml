@@ -6,4 +6,8 @@
     <string name="random">random</string>
     <string name="Admin">Admin</string>
     <string name="login">Login</string>
+    <string name="Adin">Admin login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
 </resources>
