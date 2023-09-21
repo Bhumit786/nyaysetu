@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"><u>Nyaysetu</u></string>
+    <string name="tagline">Where justice finds its way</string>
+    <string name="logo">logo</string>
+    <string name="nyaysetu">Nyaysetu</string>
+    <string name="random">random</string>
+    <string name="Admin">Admin</string>
+    <string name="login">Login</string>
+</resources>
